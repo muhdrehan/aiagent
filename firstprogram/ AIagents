@@ -1,0 +1,23 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .gitignore
+#	new file:   README.md
+#	new file:   poem.txt
+#	new file:   pyproject.toml
+
+#	new file:   src/firstprogram/__init__.py
+#	new file:   src/firstprogram/crews/poem_crew/config/agents.yaml
+#	new file:   src/firstprogram/crews/poem_crew/config/tasks.yaml
+#	new file:   src/firstprogram/crews/poem_crew/poem_crew.py
+#	new file:   src/firstprogram/main.py
+#	new file:   src/firstprogram/tools/__init__.py
+#	new file:   src/firstprogram/tools/custom_tool.py
+#	new file:   uv.lock
+#
